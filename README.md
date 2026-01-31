@@ -70,6 +70,9 @@ This repository is provided as evidence of:
 - End-to-end ML integration
 - Deployment-aware engineering decisions
 - Translation of ML concepts into operational systems
+- A clear distinction between current functionality and planned research
+extensions is provided in
+[`docs/current_vs_planned_capabilities.md`](docs/current_vs_planned_capabilities.md).
 
 ## Disclaimer
 This repository is provided for academic and technical review only.
